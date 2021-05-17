@@ -37,7 +37,7 @@ public class Imagenes extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\chido\\Documents\\Tareas\\UNIVERSIDAD\\Cuarto Semestre\\Programación III\\ProyectoFinal\\Nueva carpeta\\PruebaCintia\\PruebaCintia\\proyectopruebaImagenes\\src\\imagenes\\maincra.jpg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/maincra.jpg"))); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

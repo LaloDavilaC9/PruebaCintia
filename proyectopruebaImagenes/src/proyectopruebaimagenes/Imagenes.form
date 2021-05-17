@@ -58,7 +58,7 @@
     <Component class="javax.swing.JLabel" name="jLabel3">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="D:\chido\Documents\Tareas\UNIVERSIDAD\Cuarto Semestre\Programaci&#xf3;n III\ProyectoFinal\Nueva carpeta\PruebaCintia\PruebaCintia\proyectopruebaImagenes\src\imagenes\maincra.jpg"/>
+          <Image iconType="3" name="/imagenes/maincra.jpg"/>
         </Property>
       </Properties>
     </Component>
